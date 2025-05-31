@@ -18,7 +18,7 @@ This is a text-based **Tic Tac Toe game** built in Python. Play against a friend
 
 - Python 🐍
 - Random module
-- Minimax algorithm (for impossible mode)
+- Heuristic AI (for impossible mode)
 
 ---
 
